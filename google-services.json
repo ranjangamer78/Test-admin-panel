@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "462975445825",
+    "firebase_url": "https://task-earn-61241-default-rtdb.firebaseio.com",
+    "project_id": "task-earn-61241",
+    "storage_bucket": "task-earn-61241.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462975445825:android:2d2330781b6b30f2dccfc0",
+        "android_client_info": {
+          "package_name": "com.taskearn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462975445825-esr0980pp8qou0i7md0tec3lvu857sob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taskearn.app",
+            "certificate_hash": "b8d9939ad673f5900a4b16de97ed7eac248f4bb9"
+          }
+        },
+        {
+          "client_id": "462975445825-6cku6ooie23rp5rio7slst8j19u6ib59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJHPuwqQx_rIzU6Q39UjSeeru5w8vSHys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462975445825-6cku6ooie23rp5rio7slst8j19u6ib59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
